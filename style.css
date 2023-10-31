@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    font-family: "inter";
+}
+
+#titulo-menusuperior{
+    background-color: #303030;
+    color: #FFFFFF;
+    padding-top: 206px;
+    padding-left: 62px;
+    width: 1440px;
+    height: 300px;
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: 3px;
+}
+
+#subtitulo-menusuperior{
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 0px;
+    letter-spacing: -0.5px;
+    padding-top: 50px;
+    padding-left: 0px;
+}
+
+#memusuperior{
+    background-color: #303030;
+    margin-top: 75px;
+    margin-left: 62px;
+}
+
+#menuinformacional{
+    background-color: #EAECE5;
+    width: 1501px;
+    height: 229px;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+#num850{
+    font-size: 35px;
+    padding: 90px 0px 0px 100px;
+}
+
+#empreendimentos{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 5px 0px 0px 0px ;  
+}
+
+#num40{
+    font-size: 35px;
+    padding: 90px 0px;
+}
+
+#anosdemercado{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 5px 0px 0px 0px;
+}
+
+#num2mi{
+    font-size: 35px;
+    padding: 90px 0px;
+}
+
+#projetosconstruidos{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    padding: 5px 0px 0px 0px;
+}
+
+#painelinformativo{
+    background-color: #FFFFFF;
+    display: grid;
+    grid-auto-flow: column;
+    width: 750px;
+}
+
+#tituloinformativo{
+    width: max-content;
+    font-size: 20px;
+    padding: 250px 25px 0px 55px;
+}
+
+#textoinformativo{
+    padding: 30px 0px 0px 0px;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 300;  
+}
+
+#imagem{
+    padding: 90px 0px 100px 115px;
+}
+
+#formulario{
+    background-color: #303030;
+    width: 1501px;
+    height: 638px;
+}
+
+#titulo-formulario{
+    color: #FFFFFF;
+    padding: 100px 0px 20px 0px;
+    margin-bottom: 25px;
+    text-align: center;
+    line-height: 10px;
+    font-size: 32px;
+    word-spacing: 3px;
+}
+
+input{
+    background-color: #FFFFFF;
+    margin: 25px 500px;
+    width: 500px;
+    height: 65px;
+    padding-left: 20px;
+    border: 0px;
+    border-radius: 10px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+button{
+    color: #FFFFFF;
+    background-color: #C07212;
+    width: 286px;
+    height: 74px;
+    margin: 50px 600px;
+    border: 0px;
+    border-radius: 10px;
+    line-height: 30px;
+    font-size: 25px;
+    cursor: pointer; 
+}
+
+button:hover{
+    background-color: #f78c09;
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #e4b57bd2;
+    transition-duration: 0.6s;
+}
